@@ -1,2 +1,2 @@
 # ProductREST
- Created Rest API using Spring boot, jpa . Also used mysql database in sts and tested using postman.
+ Create Rest API using Spring boot, jpa . Use mysql database in sts and test using postman.
